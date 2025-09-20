@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quantumtransducer.org/sitemap.xml
